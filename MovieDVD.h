@@ -12,7 +12,7 @@ protected:
     string genre;
 public:
     MovieDVD();
-    MovieDVD(string n, string a, int year, float price,string genre);
+    MovieDVD(string n, string a, int year, float price,int duration,string genre);
     float getPrice() const;
     void show() const;
 };
