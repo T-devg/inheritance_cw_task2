@@ -7,4 +7,6 @@ add_executable(inheritance_cw_task2 main.cpp
         Item.cpp
         Item.h
         MusicCD.cpp
-        MusicCD.h)
+        MusicCD.h
+        MovieDVD.cpp
+        MovieDVD.h)
