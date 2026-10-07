@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(inheritance_cw_task2 main.cpp
         Item.cpp
-        Item.h)
+        Item.h
+        MusicCD.cpp
+        MusicCD.h)
